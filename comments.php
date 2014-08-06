@@ -34,10 +34,10 @@
             </div>
 </div>
             <?php else: ?>
-                        <div class="tmlabel">
-        <h3 class="text-center">
+                        <div class="tmlabel no-margin">
+        <h4 class="text-center">
             该文章的评论已关闭
-        </h3>
+        </h4>
 </div>
             <?php endif; ?>
 </div>
