@@ -19,7 +19,10 @@
         <a href="http://www.typecho.org" target="_blank">
             Typecho
         </a>
-        强力驱动 | Theme By
+        强力驱动 | Designed By
+        <a href="http://tympanus.net/" target="_blank">
+            Mary Lou
+        </a> | Theme By
         <a href="http://jimmycai.org" target="_blank">
             Jimmy
         </a>
